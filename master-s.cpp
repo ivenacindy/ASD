@@ -20,11 +20,11 @@ void CreateEmpty (Stack *S){
 
 /* Predikat Untuk test keadaan KOLEKSI */
 
-boolean IsEmpty (Stack S){
+bool IsEmpty (Stack S){
 /* Mengirim true jika Stack kosong, false jika tidak */
 }
 
-boolean IsFull (Stack S){
+bool IsFull (Stack S){
 /* Mengirim true jika tabel penampung nilai elemen stack penuh,
    false jika tidak */
 }
