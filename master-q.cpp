@@ -20,11 +20,11 @@ void CreateEmpty (Queue *Q){
 }
 
 /* Tes Kosong atau Penuh */
-boolean IsEmpty (Queue Q){
+bool IsEmpty (Queue Q){
 /* Mengirim true jika Q kosong, false jika tidak */	
 }
 
-boolean IsFull(Queue Q){
+bool IsFull(Queue Q){
 /* Mengirim true jika tabel penampung elemen Q sudah penuh */
 /* yaitu mengandung elemen sebanyak MaxEl */
 }
